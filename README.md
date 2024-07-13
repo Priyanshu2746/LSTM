@@ -1,6 +1,3 @@
-Here's a README file for your GitHub repository:
-
-```markdown
 # Sentiment Analysis on Tweets
 
 This repository contains a project for sentiment analysis on tweets using Natural Language Processing (NLP) and TensorFlow. The project involves data preprocessing, text cleaning, and building a LSTM model for sentiment classification.
@@ -46,7 +43,7 @@ You can install the dependencies using pip:
 
 ```bash
 pip install numpy pandas matplotlib seaborn nltk spacy contractions tensorflow scikit-learn
-```
+
 
 ## Preprocessing
 
